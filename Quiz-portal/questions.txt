@@ -1,0 +1,335 @@
+What does 'sizeof' return?
+Size in bytes
+Value
+Address
+Max value
+1
+
+Which header file is needed for printf()?
+<stdio.h>
+<conio.h>
+<stdlib.h>
+<string.h>
+1
+
+Output of 2+2*2?
+6
+8
+4
+10
+1
+
+Default return type of main()?
+void
+int
+char
+float
+2
+
+Which of these is a loop statement in C?
+if
+switch
+for
+case
+3
+
+Keyword for constants?
+const
+final
+constant
+constexpr
+1
+
+C preprocessor directives are used for?
+File inclusion
+Function calls
+Loops
+Switch
+1
+
+Pointer to pointer declaration?
+int **ptr;
+int *ptr;
+int ptr;
+int &ptr;
+1
+
+Which is correct array declaration?
+int arr[5];
+int arr;
+array int[5];
+int arr[];
+1
+
+Value of NULL pointer?
+0
+1
+Undefined
+Random
+1
+
+Assembly language is?
+Low level
+High level
+Middle level
+Not a language
+1
+
+Typical size of int?
+4 bytes
+1 byte
+8 bytes
+2 bytes
+1
+
+Function to allocate memory dynamically?
+malloc
+calloc
+realloc
+memalloc
+1
+
+Operator to dereference pointer?
+*
+&
+->
+[]
+1
+
+Modulus operator is?
+%
+/
+*
++
+1
+
+Value of 'a' after int a=5; a++;?
+6
+5
+4
+0
+1
+
+Which statement needs a semicolon at end?
+All C statements
+if
+for
+while
+1
+
+Break statement used in?
+loop
+if
+function
+struct
+1
+
+How to comment a single line?
+//
+/*
+#
+<!--
+1
+
+Enum declares?
+set of constants
+variable
+function
+struct
+1
+
+C is a ___ language?
+Procedural
+Object Oriented
+Functional
+Logical
+1
+
+Bitwise AND operator?
+&
+|
+^
+~
+1
+
+Null character in C?
+\0
+\n
+\t
+\r
+1
+
+Use of typedef?
+Create alias
+Declare variable
+Define function
+Allocate memory
+1
+
+File mode to open file for writing?
+w
+r
+a
+rw
+1
+
+Preprocessor directive starts with?
+#
+$
+@
+&
+1
+
+Which is not a storage class?
+inherit
+auto
+register
+static
+1
+
+Output of sizeof(char)?
+1
+2
+4
+Depends
+1
+
+Correct way to declare string?
+char str[]="Hello";
+string str;
+char str;
+var str;
+1
+
+main() must return?
+int
+void
+char
+float
+1
+
+Keyword to exit a loop?
+break
+exit
+stop
+return
+1
+
+Meaning of 'volatile'?
+Value can change unexpectedly
+Variable stays constant
+Function volatile
+Loop volatile
+1
+
+Global variable declared where?
+Outside all functions
+Inside main
+Inside a function
+Inside loop
+1
+
+Operator for address-of variable?
+&
+*
+^
+#
+1
+
+Function to read string input?
+gets
+scanf
+printf
+puts
+1
+
+Array index starts at?
+0
+1
+-1
+Depends
+1
+
+How to allocate array dynamically?
+malloc
+calloc
+realloc
+new
+1
+
+Return type of malloc?
+void *
+int
+char *
+void
+1
+
+Loop control statement?
+continue
+goto
+switch
+case
+1
+
+Passing array to function is?
+pointer
+value
+reference
+object
+1
+
+Keyword to declare constant?
+const
+static
+final
+constant
+1
+
+Operator to access structure member via pointer?
+->
+.
+*
+&
+1
+
+Static variable inside function means?
+Value retains between calls
+Variable resets
+Variable public
+Variable private
+1
+
+Header where malloc is defined?
+<stdlib.h>
+<stdio.h>
+<malloc.h>
+<string.h>
+1
+
+Implicit type conversion is?
+Automatic conversion
+Manual conversion
+Compilation error
+Run-time error
+1
+
+What is a NULL pointer?
+Pointer pointing nowhere
+Pointer pointing to 0
+Uninitialized pointer
+Pointer to null object
+1
+
+sizeof(char) is?
+1 byte
+4 bytes
+2 bytes
+Depends
+1
+
+File pointer type?
+FILE *
+int *
+char *
+void *
+1
