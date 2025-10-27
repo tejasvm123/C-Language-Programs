@@ -1,0 +1,35 @@
+variable
+In C, a variable is a named location in memory that stores data which can be changed during program execution.
+
+constant
+A constant is a named memory location whose value cannot be changed after initialization.
+
+pointer
+A pointer stores the address of another variable. It allows indirect manipulation of variables and dynamic memory management.
+
+array
+An array is a collection of elements of the same type stored in contiguous memory locations.
+
+function
+Functions are reusable blocks of code designed to perform a specific task and can be called multiple times.
+
+loop
+In C, loops execute a block of code multiple times. Common loops are for, while, and do-while.
+
+struct
+A struct is a user-defined data type that groups related variables of different types.
+
+dynamic memory
+Dynamic memory allocation allows allocating memory at runtime using functions like malloc and free.
+
+header file
+Header files contain declarations for functions and macros and are included using #include.
+
+compile error
+Errors that occur during code compilation, often due to syntax or type issues.
+
+runtime error
+Errors occurring during execution, such as division by zero or invalid memory access.
+
+exit
+Thank you for using the C FAQ Assistant. Goodbye!
